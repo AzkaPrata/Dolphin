@@ -18,8 +18,16 @@
  - After installation, you can run the bot with the following command.<br><br>
   `nodemon index.js`<br><br>
 
+## Configuring The Bot
+ - Create folder with name key, and put the key.js in it.
+ - Fill the key.js with your token, prefix, and other settings.
+ - If you create folder or file with another name change the import path in the index.js.
+ - And run the bot with the following command.<br><br>
+  `nodemon index.js`<br><br>
 
-# [Invite My Bot](https://discordapp.com/api/oauth2/authorize?client_id=980034017418182656permissions=8&scope=bot)
+
+
+### [Invite My Bot](https://discordapp.com/api/oauth2/authorize?client_id=980034017418182656permissions=8&scope=bot)<br><br>
 
 
 > Copyright AzkaPrata
